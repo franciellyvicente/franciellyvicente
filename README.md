@@ -7,8 +7,6 @@
 Me chamo **Francielly Vicente Chagas**, sou do estado de **São Paulo** e sou apaixonada por tecnologia.  
 Atualmente estou em constante evolução na área de **desenvolvimento web e suporte de TI**, desenvolvendo projetos e aprimorando minhas habilidades em criação de interfaces web.
 
-Possuo experiência com **atendimento ao usuário, resolução de problemas técnicos e suporte em tecnologia**, o que fortalece minhas habilidades de comunicação, análise e pensamento crítico.
-
 Aqui no meu GitHub compartilho **projetos, estudos e aplicações web** que fazem parte da minha jornada na área de tecnologia.
 
 ---
@@ -74,6 +72,15 @@ Aqui no meu GitHub compartilho **projetos, estudos e aplicações web** que faze
 
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git"
     title="Git" 
     width="30px" 
@@ -86,20 +93,18 @@ Aqui no meu GitHub compartilho **projetos, estudos e aplicações web** que faze
 
 ---
 
-# 📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="left">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=franciellyvicente&show_icons=true&theme=tokyonight"
+  />
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=franciellyvicente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciellyvicente&layout=compact&langs_count=6&theme=tokyonight"
-/>
-
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=franciellyvicente&layout=compact&theme=tokyonight"
+  />
 </p>
 
 <br clear="both"/>
