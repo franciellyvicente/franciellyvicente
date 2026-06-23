@@ -1,6 +1,6 @@
 ## franciellyvicente
 
-# 👩🏻‍💻 Francielly Vicente Chagas
+# 👩🏻‍💻 Francielly Vicente
 
 **`Desenvolvedora Front-End | Suporte de TI`**
 
