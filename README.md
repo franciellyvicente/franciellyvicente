@@ -4,7 +4,7 @@
 
 **`Desenvolvedora Front-End | Suporte de TI`**
 
-Me chamo **Francielly Vicente Chagas**, sou do estado de **São Paulo** e sou apaixonada por tecnologia.  
+Me chamo **Francielly Vicente**, sou do estado de **São Paulo** e sou apaixonada por tecnologia.  
 Atualmente estou em constante evolução na área de **desenvolvimento web e suporte de TI**, desenvolvendo projetos e aprimorando minhas habilidades em criação de interfaces web.
 
 Aqui no meu GitHub compartilho **projetos, estudos e aplicações web** que fazem parte da minha jornada na área de tecnologia.
