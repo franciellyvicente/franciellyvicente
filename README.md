@@ -93,18 +93,4 @@ Aqui no meu GitHub compartilho **projetos, estudos e aplicações web** que faze
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=franciellyvicente&show_icons=true&theme=tokyonight"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=franciellyvicente&layout=compact&theme=tokyonight"
-  />
-</p>
-
 <br clear="both"/>
